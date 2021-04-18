@@ -5,3 +5,19 @@ li{
     color: rgb(58, 3, 3);
     font-size: large    ;
 }
+
+h2{
+    background-color: rgb(209, 24, 169);
+}
+
+#seccion{
+    background-color: rgb(28, 186, 197);
+    margin-left: auto;
+    margin-right: auto;
+    margin top: 25px;
+    padding: 5px;
+    border: black solid 10gpx;
+}
+
+/* Para darle estilo a etiqueta Id = #
+Para darle estilo a etiqueta class = . */
